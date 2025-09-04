@@ -1,0 +1,22 @@
+{
+  "name": "polar-coordinate-system",
+  "version": "1.0.0",
+  "description": "A project to implement a polar coordinate system for managing planets, obstacles, and rovers.",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.1.3",
+    "ts-jest": "^29.4.1",
+    "typescript": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/polar-coordinate-system.git"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
