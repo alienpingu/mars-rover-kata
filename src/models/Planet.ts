@@ -23,7 +23,6 @@ export class Planet {
         return this.obstacles;
     }
 
-    // Add this method:
     getRenderData(): object {
         return {
             radius: this.radius,
